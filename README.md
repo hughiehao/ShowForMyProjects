@@ -10,7 +10,11 @@
 
 #### 老片去划痕
 
+<div align="center">
+  
 https://user-images.githubusercontent.com/38458343/216776387-2960fb36-1b2e-48d9-ab63-aa7395b51c37.mp4
+
+</div>
 
 #### 去雪、去雨
 
@@ -32,4 +36,31 @@ https://user-images.githubusercontent.com/38458343/216776517-dd196a24-d627-4a7e-
 
 如下是参考帧，只使用了一张高清图片作为背景信息参考，经过处理后输出画质得到明显提高。
 
+<div align="center">
+  
 ![show-recover-bgr-1](https://user-images.githubusercontent.com/38458343/216776748-e1ee2f8e-29de-4c15-8b4a-336b46eed500.jpeg)
+
+</div>
+
+#### 双目视频生成
+
+>    从单目视频生成具有3D效果的双目视频
+
+3D效果很难直接展示，因此使用红蓝模式可视化，算法能够自动区分文字类和视频画面。
+
+<img width="1672" height="942" alt="2dto3d_in" src="https://github.com/user-attachments/assets/12b69829-e2c1-4991-af58-ef17807c49c8" />
+
+<img width="1673" height="942" alt="2dto3d_out" src="https://github.com/user-attachments/assets/45c9ebbf-23a7-4f06-866e-3474c5861f9d" />
+
+
+#### 包装擦除
+
+>   自动检测字幕、LOGO等包装元素区域并进行擦除，其中LOGO图标支持自定义的非模型训练的特定种类
+
+<div align="center">
+  
+https://github.com/user-attachments/assets/2e5b2cc8-b5b5-4133-a67c-c45bac4eb40b
+
+</div>
+
+
